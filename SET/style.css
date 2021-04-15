@@ -1,0 +1,68 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	background-color: rgb(79, 146, 233);
+}
+
+h1 {
+	font-size: 350%;
+	text-align: center;
+}
+
+h2 {
+	font-size: 150%;
+	text-align: center;
+}
+p {
+	font-size: 200%;
+	text-align: center;
+}
+
+input {
+	width: 20%;
+	background-color: rgb(170, 170, 170);
+	margin: 10px;
+  	border: none;
+  	color: black;
+  	padding: 15px 32px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+}
+
+div {
+	text-align: center;
+}
+
+select {
+	width: 20%;
+	background-color: rgb(170, 170, 170);
+	margin: 10px;
+  	border: none;
+  	color: black;
+  	padding: 15px 32px;
+  	text-align: center;
+  	text-align-last: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+}
+
+#backbtningame {
+	padding: 15px;
+	text-align: left;
+}
+
+#sethelpcheck, #setshowcheck, #additioncheck{
+	text-align: center;
+	width: auto;
+}
+canvas {
+	padding: 0;
+    margin: auto;
+    display: block;
+	border: 2px solid black;
+	background-color: rgb(98, 174, 236);
+	border-radius: 5px;
+}

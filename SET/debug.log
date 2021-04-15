@@ -1,0 +1,5 @@
+[1127/171145.788:ERROR:directory_reader_win.cc(43)] FindFirstFile: A rendszer nem találja a megadott elérési utat. (0x3)
+[1127/213912.776:ERROR:directory_reader_win.cc(43)] FindFirstFile: A rendszer nem találja a megadott elérési utat. (0x3)
+[1127/220349.435:ERROR:directory_reader_win.cc(43)] FindFirstFile: A rendszer nem találja a megadott elérési utat. (0x3)
+[1129/165243.683:ERROR:directory_reader_win.cc(43)] FindFirstFile: A rendszer nem találja a megadott elérési utat. (0x3)
+[1129/181708.264:ERROR:directory_reader_win.cc(43)] FindFirstFile: A rendszer nem találja a megadott elérési utat. (0x3)

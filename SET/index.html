@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>SET</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style.css" rel="stylesheet" media="screen">
+    <script type="text/javascript" src="menu.js"></script>
+    <script type="text/javascript" src="deckManager.js"></script>
+</head>
+
+<body>
+    <div id="divmenu">
+        <h1> SET </h1>
+        <input type="button" id="playGame" value="Start">
+        <br>
+
+        <select name="Játékmód:" id="difficulty" value="Gyakorlás">
+            <option>Gyakorlás</option>
+            <option>Verseny</option>
+        </select>
+        <br>
+
+
+        <select name="Játékosok száma:" id="players" value="1">
+            <option value="1">1 játékos</option>
+            <option value="2">2 játékos</option>
+            <option value="3">3 játékos</option>
+            <option value="4">4 játékos</option>
+            <option value="5">5 játékos</option>
+            <option value="6">6 játékos</option>
+            <option value="7">7 játékos</option>
+            <option value="8">8 játékos</option>
+            <option value="9">9 játékos</option>
+            <option value="10">10 játékos</option>
+        </select>
+        <br>
+
+        <input type="button" id="rules" value="Játékszabály">
+        <div id="forRules">
+            <input type="button" id="otherOptions" value="Egyéb beállítások">
+        </div>
+    </div>
+
+    <div id="otheroptdiv">
+        <p>SET segítség gomb:<input type="checkbox" id="sethelpcheck" name="shc"></p>
+        <p>SET mutatás gomb:<input type="checkbox" id="setshowcheck" name="ssc"></p>
+        <p>3 lapos kiegészítés:<input type="checkbox" id="additioncheck" name="ac"></p>
+        <input type="button" id="backbtnoo" value="Vissza">
+    </div>
+    <div id="divgame">
+        <h2 id="backbtningame"><input type="button" id="backbtndg" value="Főmenü">
+
+            <canvas width="1024" height="768"></canvas>
+            <script type="text/javascript" src="set.js"></script>
+
+    </div>
+</body>
+
+</html>
