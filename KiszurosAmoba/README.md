@@ -1,3 +1,5 @@
+(NetBeans project)
+
 Feladat:
 
 Kiszúrós amőba
