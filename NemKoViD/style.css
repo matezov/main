@@ -1,0 +1,98 @@
+body {
+    background-color: lightblue;
+    text-align: left;
+}
+
+.error {
+    color: red;
+}
+
+button {
+    margin: 5px;
+    width: 150px;
+}
+
+table {
+    margin-left: left;
+    margin-right: left;
+    padding: 10px;
+}
+
+.errortd {
+    color: red;
+    display: inline-table;
+    border: none;
+    text-align: left;
+}
+#ok {
+    font-size: 25px;
+    color: green;
+}
+
+#indexbody {
+    text-align: center;
+}
+
+.indextable {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px black solid;
+    border-collapse: collapse;
+    width: auto;
+    height: auto;
+    padding: 10px;
+}
+td, th {
+    text-align: center;
+    border: 1px black solid;
+    padding: 10px;
+}
+
+.indexbtn {
+    font-size: 20px;
+    margin: 5px;
+    width: 250px;
+    height: 65px;
+    background-color: lavender;
+}
+
+#applybtn {
+    font-size: 15px;
+    margin: auto;
+    width: auto;
+    height: auto;
+    background-color: burlywood;
+}
+.full {
+    background-color: lightcoral;
+    border: 1px black solid;
+}
+.notfull {
+    background-color: lightgreen;
+    border: 1px black solid;
+}
+
+.indextableforbtns {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    padding: 10px;
+}
+
+.indextrforbtns {
+    padding: 20px;
+    margin-top: 2%;
+    border: none;
+}
+
+.loginsignintable {
+    border: none;
+}
+
+.regtdth {
+    border: none;
+    text-align: right;
+}

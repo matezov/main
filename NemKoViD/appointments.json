@@ -1,0 +1,115 @@
+{
+    "5ffb7b5d88347": {
+        "date": "2021-01-20",
+        "time": "15:00",
+        "capacity": 5,
+        "freespace": 3,
+        "applicantID": {
+            "1": "5ffb7c02c4942",
+            "2": "5ffb7cd129fbc"
+        },
+        "id": "5ffb7b5d88347"
+    },
+    "5ffb7b6db9424": {
+        "date": "2021-02-16",
+        "time": "11:10",
+        "capacity": 9,
+        "freespace": 8,
+        "applicantID": [
+            "5ffb83cbc0f6a"
+        ],
+        "id": "5ffb7b6db9424"
+    },
+    "5ffb7b800d4b2": {
+        "date": "2021-03-25",
+        "time": "02:11",
+        "capacity": 12,
+        "freespace": 12,
+        "applicantID": [],
+        "id": "5ffb7b800d4b2"
+    },
+    "5ffb7b89e5e90": {
+        "date": "2021-01-28",
+        "time": "02:11",
+        "capacity": 3,
+        "freespace": 2,
+        "applicantID": [
+            "5ffb7c28b5086"
+        ],
+        "id": "5ffb7b89e5e90"
+    },
+    "5ffb7b9a54388": {
+        "date": "2021-07-22",
+        "time": "02:11",
+        "capacity": 12,
+        "freespace": 12,
+        "applicantID": [],
+        "id": "5ffb7b9a54388"
+    },
+    "5ffb7ba42eeb1": {
+        "date": "2021-03-20",
+        "time": "03:11",
+        "capacity": 12,
+        "freespace": 12,
+        "applicantID": [],
+        "id": "5ffb7ba42eeb1"
+    },
+    "5ffb7baf9d517": {
+        "date": "2021-02-17",
+        "time": "05:11",
+        "capacity": 16,
+        "freespace": 16,
+        "applicantID": [],
+        "id": "5ffb7baf9d517"
+    },
+    "5ffb7c5b2f1cb": {
+        "date": "2021-01-20",
+        "time": "11:14",
+        "capacity": 14,
+        "freespace": 14,
+        "applicantID": [],
+        "id": "5ffb7c5b2f1cb"
+    },
+    "5ffb7c68e22d8": {
+        "date": "2021-01-31",
+        "time": "14:15",
+        "capacity": 5,
+        "freespace": 4,
+        "applicantID": [
+            "5ffb832253bcc"
+        ],
+        "id": "5ffb7c68e22d8"
+    },
+    "5ffb82d7704e8": {
+        "date": "2021-03-26",
+        "time": "01:42",
+        "capacity": 2,
+        "freespace": 2,
+        "applicantID": [],
+        "id": "5ffb82d7704e8"
+    },
+    "5ffb82e18216a": {
+        "date": "2021-04-17",
+        "time": "03:42",
+        "capacity": 23,
+        "freespace": 23,
+        "applicantID": [],
+        "id": "5ffb82e18216a"
+    },
+    "5ffb82ecd85ef": {
+        "date": "2021-05-21",
+        "time": "03:42",
+        "capacity": 21,
+        "freespace": 21,
+        "applicantID": [],
+        "id": "5ffb82ecd85ef"
+    },
+    "5ffb82f46da32": {
+        "date": "2021-01-14",
+        "time": "05:42",
+        "capacity": 2,
+        "freespace": 2,
+        "applicantID": [],
+        "id": "5ffb82f46da32"
+    }
+}
