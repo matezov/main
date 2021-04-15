@@ -1,10 +1,9 @@
 CPP beadandó feladat:
 
-Aligner osztály létrehozása, és a feladat megoldása úgy, hogy a
-mainV11.cpp-t nem módosítjuk. Az aligner osztály template, aminek a
-template paramétere meghatározza, hogy milyen elemeket tartalmazó
-vector-ok igazításáért felel a típus. Maga az aligner nem tudja, hogy az
-eligazítás mit is jelent, ezért ezt az altípusokra fogja bízni:
+A feladat megoldása úgy, hogy a mainV11.cpp-t nem módosítjuk. Az aligner
+osztály template, aminek a template paramétere meghatározza, hogy milyen
+elemeket tartalmazó vector-ok igazításáért felel a típus. Maga az aligner
+nem tudja, hogy az eligazítás mit is jelent, ezért ezt az altípusokra fogja bízni:
 center_aligner-rel  középre, a left_aligner-rel balra, a right_aligner-rel
 jobbra, a justified_aligner-rel sorkizártra lehet igazítani az aligner-hez
 adott vector-okat. Az align-nak ténylegesen azokkal a vektorokkal kell
