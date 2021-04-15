@@ -1,6 +1,7 @@
 CPP beadandó feladat:
 
-Az aligner osztály template, aminek a
+Aligner osztály létrehozása, és a feladat megoldása úgy, hogy a
+mainV11.cpp-t nem módosítjuk. Az aligner osztály template, aminek a
 template paramétere meghatározza, hogy milyen elemeket tartalmazó
 vector-ok igazításáért felel a típus. Maga az aligner nem tudja, hogy az
 eligazítás mit is jelent, ezért ezt az altípusokra fogja bízni:
